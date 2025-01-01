@@ -1,1 +1,2 @@
 # Mysql-assignment-7
+To the Country table and Persons table that created earlier  performed the following: 1. Added a new column called DOB in Persons table with data type as Date. 2. Wrote a user-defined function to calculate age using DOB. 3. Wrote select query to fetch the Age of all persons using the function that has been created. 4. Found the length of each country name in the Country table. 5. Converted all country names to uppercase and lowercase in the Country table.
